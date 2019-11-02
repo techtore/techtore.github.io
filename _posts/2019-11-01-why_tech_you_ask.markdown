@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why tech, you ask?"
-date:       2019-11-02 01:22:24 +0000
+date:       2019-11-01 21:22:24 -0400
 permalink:  why_tech_you_ask
 ---
 
