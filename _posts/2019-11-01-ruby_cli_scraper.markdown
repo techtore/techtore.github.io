@@ -1,15 +1,15 @@
 ---
 layout: post
 title:      "Ruby CLI Scraper "
-date:       2019-11-02 02:22:39 +0000
+date:       2019-11-01 22:22:39 -0400
 permalink:  ruby_cli_scraper
 ---
 
 > Project 1:
 
-I have FINALLY reached the end of my first project week. The goal was to "build a Ruby Gem that provides a [CLI] to an external data source." Easy Peasy, I just did this is my recent assignments. That was the thought, until I tried to set up my local environment. Which also wasn't horrible. It only took 2 hours and I followed a very helpful walkthrough found [here](httphttps://help.learn.co/en/articles/900121-mac-osx-manual-environment-set-up://). 
+I have FINALLY reached the end of my first project week. The goal was to "build a Ruby Gem that provides a [CLI] to an external data source." Easy Peasy, I just did this is my recent assignments. That was the thought, until I tried to set up my local environment. Which also wasn't horrible. It only took 2 hours and I followed a very helpful walkthrough found [here](https://help.learn.co/en/articles/900121-mac-osx-manual-environment-set-up://). 
 
-Okay I was through that, phew! But then came time to use the local environment to start coding. I could not figure this out! I was on a mission to get my project started ASAP, because I knew it would take me a while to execute the necessary steps (when I get stuck, I'm stuck... for a while). So I made the smart choice of forgetting about the local environment and just using the in browser IDE on Leran.co. I followed this [video](httphttps://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E://) to set that up, and voila I was in business. That was honestly the hardest part.  However, it did take me a while to come up with an idea for a project. I could not think of any websites I used regularly, nonetheless ones that had details on it that a user would want to access. I decided to scrape the Extraordinary Finds section on Amazon.com. I was super excited, until it was brought to my attention the potential of being marked a hacker for scraping Amazon. I was somehwat reassured it could be done, but I didn't want to risk it. So I stumbled across a webpage I NEVER look at. Not as exciting, but I knew I could get the thing done using Huffpost.com. 
+Okay I was through that, phew! But then came time to use the local environment to start coding. I could not figure this out! I was on a mission to get my project started ASAP, because I knew it would take me a while to execute the necessary steps (when I get stuck, I'm stuck... for a while). So I made the smart choice of forgetting about the local environment and just using the in browser IDE on Leran.co. I followed this [video](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E://) to set that up, and voila I was in business. That was honestly the hardest part.  However, it did take me a while to come up with an idea for a project. I could not think of any websites I used regularly, nonetheless ones that had details on it that a user would want to access. I decided to scrape the Extraordinary Finds section on Amazon.com. I was super excited, until it was brought to my attention the potential of being marked a hacker for scraping Amazon. I was somehwat reassured it could be done, but I didn't want to risk it. So I stumbled across a webpage I NEVER look at. Not as exciting, but I knew I could get the thing done using Huffpost.com. 
 
 I scraped the Top Stories section of Huffpost.com. A user can request a list of articles in Top Stories, select one based on it's title, and read the whole article from the command line of the terminal. Still pretty cool in my opinion, as someone who doesn't read the news. You can see how it functions [here](https://youtu.be/c8kRG1NbuDghttp://). Enjoy!
 
