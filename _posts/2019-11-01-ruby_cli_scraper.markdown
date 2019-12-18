@@ -15,26 +15,31 @@ I scraped the Top Stories section of Huffpost.com. A user can request a list of 
 
 There were several snags along the way. Many times I was stuck but these are the things I learned:
 
-1. Your community/network is important. 
-        I somehow got lucky to find a great group of peers in my cohort that were there for me every step of the way. Find those people and stick with them! Together you will get through it.
-2. If you have an instructor, in my case my cohort lead, utilize the help they are offering.
-```
-I am not someone who asks for help easily. So reaching out to my peers and cohort lead was not my first inclination. But the times I did, I'm grateful for because there was no time to be struggling alone. 
-```
-3. Plans change, you may have to retsart your project at some point, and that is okay. 
-```
-I had a several hurdles thrown my way. I had to accept that things change and I can adapt. Adaptability is a great skill to have.
-```
-4. Google is your BEST FRIEND. 
-```
-Go Best Friend, that's my best friend! Learn how to ask questions in the right way on Google. It is also a great way to learn new things and see how other people solved similar problems to yours.
-```
-5. Lastly, believe in yourself. 
-```
-This has been my mantra since I began this program. I went into this project feeling completely clueless, with HIGH anxiety. But I got to the other side. 
-```
+**1. Your community/network is important. **
 
-In the end, I created a project that I am proud of. It functions the way it's supposed to, and I have a better understanding of object oriented programming, as well as belongs to and has many relationships, which was the purpose. 
+ I somehow got lucky to find a great group of peers in my cohort that were there for me every step of the way. Find those people and stick with them! Together you will get through it.
+			
+**2. If you have an instructor, in my case my cohort lead, utilize the help they are offering.**
+
+I am not someone who asks for help easily. So reaching out to my peers and cohort lead was not my first inclination. But the times I did, I'm grateful for because there was no time to be struggling alone. 
+
+**3. Plans change, you may have to retsart your project at some point, and that is okay. **
+
+I had a several hurdles thrown my way. I had to accept that things change and I can adapt. Adaptability is a great skill to have.
+
+
+**4. Google is your BEST FRIEND. **
+
+Go Best Friend, that's my best friend! Learn how to ask questions in the right way on Google. It is also a great way to learn new things and see how other people solved similar problems to yours.
+
+
+**5. Lastly, believe in yourself.** 
+
+This has been my mantra since I began this program. I went into this project feeling completely clueless, with HIGH anxiety. But I got to the other side.
+
+
+
+In the end, I created a project that I am proud of. It functions the way it's supposed to, and I have a better understanding of object oriented programming, as well as ` belongs_to ` and `has_many` relationships, which was the purpose. 
 
 
 
