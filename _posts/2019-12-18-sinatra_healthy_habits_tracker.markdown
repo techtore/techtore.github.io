@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Healthy Habits Tracker"
-date:       2019-12-18 23:45:46 +0000
+date:       2019-12-18 18:45:47 -0500
 permalink:  sinatra_healthy_habits_tracker
 ---
 
@@ -12,7 +12,7 @@ I had decided 2 weeks prior that I wanted to create a web application where a us
 
 To the whiteboard I went. I mapped everything out from the database, to the models, to the controllers, to the views. I was set. Once I did that I knew exactly where to start. I got started by creating my project file and connecting my GitHub repo to my environment. From there I began creating my file structure, adding my gems, and creating my database. The next day, I realized I should have started with the [Ruby Corneal Gem](https://github.com/thebrianemory/corneal) which was cerated for the purpose of building a Sinatra app. It simplifies the process by generating a Sinatra application template providing the file structure necessary to get started. So I deleted everything I had before, and started fresh using the Corneal Gem. I am so glad I did.
 
-From there, I got my database up and running. I knew I needed a users and a habits table so I migrated those. Making sure to include the :user_id as a foreign key in my habits table, because a habit `belongs_to` a `:user`. Then, I started thinking. . . I want my user to be able to track habits by date. I thought I needed to add a dates table. Back to the whiteboard I went. After confusing myself trying to figure out the ActiveRecord associations between users, habits, and dates (and which would be my join table) I sought outside counsel. I was advised to simplify it and just have `:date` as an attribute in my habits table (which is where I started).
+From there, I got my database up and running. I knew I needed a users and a habits table so I migrated those. Making sure to include the :user_id as a foreign key in my habits table, because a Habit `belongs_to` a `:user`. Then, I started thinking. . . I want my user to be able to track habits by date. I thought I needed to add a dates table. Back to the whiteboard I went. After confusing myself trying to figure out the ActiveRecord associations between users, habits, and dates (and which would be my join table) I sought outside counsel. I was advised to simplify it and just have `:date` as an attribute in my habits table (which is where I started).
 
 As I progressed through the project I maintained that idea of keeping it simple. There were so many other things I could have added for functionality, usability, and styling, but the point of the project was to: show that I can build a Sinatra MVC app while demonstrating that I understand how to use ActiveRecord with Sinatra, and that my RESTful routes provide mapping to my controller CRUD actions.
 
