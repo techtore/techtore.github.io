@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Welcome to Wellness"
-date:       2020-01-20 20:18:24 +0000
+date:       2020-01-20 15:18:25 -0500
 permalink:  welcome_to_wellness
 ---
 
@@ -62,7 +62,7 @@ URLs: http://local/host:3000/topics/1/entries/new
              http://local/host:3000/topics/1/entries/1
 ```
 
-This provided me with `new_topic_entry` AND `topic_entry path` helpers to use in my controllers and views.
+This provided me with `new_topic_entry` AND `topic_entry` path helpers to use in my controllers and views.
 
 Of course, I had all of my other routes, controller actions, and views for the rest of my application’s usability.
 
