@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey to Flatiron"
-date:       2020-03-23 20:05:13 +0000
+date:       2020-03-23 16:05:14 -0400
 permalink:  my_journey_to_flatiron
 ---
 
